@@ -1,0 +1,27 @@
+h1{color:darkgreen;}
+p{
+    font-size: 20px;
+    color:brown;
+    text-align: center;
+}
+#intro{
+    color: green;
+    font-style: italic;
+}
+#intro1{
+    color: blueviolet;
+    font-style: italic;
+}
+body{
+    background-color:darkgray;
+}
+.content1 {
+    background-color: aliceblue;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border: 5px dashed red;
+}
+image{
+    float: right;
+}
